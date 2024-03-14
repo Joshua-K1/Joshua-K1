@@ -4,17 +4,17 @@
 # -*- coding: utf-8 -*-
 
 
-class HumanSoftwareEngineer:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Joshua"
-        self.role = "Human Software Engineer"
+        self.role = "Software Engineer"
 
     def hello(self):
         print("Hello, friend.")
 
 
-me = HumanSoftwareEngineer()
+me = SoftwareEngineer()
 me.hello()
 ```
 
