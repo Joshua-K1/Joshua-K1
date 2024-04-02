@@ -8,7 +8,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Joshua"
-        self.role = "Software Engineer, Data Architect, Infrastructure Architect"
+        self.role = "Software Engineer, Information Anarchist, Infrastructure Architect"
 
     def hello(self):
         print("Hello, friend.")
